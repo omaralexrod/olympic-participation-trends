@@ -1,4 +1,4 @@
-# olympic-participation-trends
+# Olympic-Participation-Trends
 
 Analyzing 120+ years of Olympic athlete data to understand how the Games have evolved.
 
