@@ -52,3 +52,5 @@ Female participation in the Olympics rose steadily across the 120-year span, wit
 ## Author
 
 Omar Rodriguez Arellano
+
+Part of my [Data Science Portfolio](https://omaralexrod.github.io)
