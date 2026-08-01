@@ -31,9 +31,9 @@ Due to file size (~40MB), the raw CSV is not committed to this repo — download
 
 | Metric | Finding |
 |---|---|
-| Female participation | Grew steadily from 1896 onward, with the sharpest increase after 1980 — by 2016, the gender gap in athlete counts had narrowed considerably |
-| Top medal-winning country | United States, by a wide margin — followed by the Soviet Union, Germany, and Great Britain |
-| Top medal-awarding sport | Athletics, followed closely by Swimming — both driven by the large number of individual events each sport includes |
+| Female participation | Grew steadily from 1896 onward, with the sharpest increase after 1980, by 2016, the gender gap in athlete counts had narrowed considerably |
+| Top medal-winning country | United States, by a wide margin, followed by the Soviet Union, Germany, and Great Britain |
+| Top medal-awarding sport | Athletics, followed closely by Swimming, both driven by the large number of individual events each sport includes |
 
 Female participation in the Olympics rose steadily across the 120-year span, with the most notable acceleration starting around 1980, closing much of the historical gap with male participation by 2016. On the medal side, the United States has maintained a consistent, dominant presence across decades, while medal counts by sport are shaped less by national dominance and more by structural factors — sports like Athletics and Swimming simply offer far more individual events, and therefore far more chances to medal, than sports with fewer events.
 
